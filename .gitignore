@@ -1,0 +1,9 @@
+SitecoreCaching.SC.Framework/obj/
+*.suo
+*.pdb
+SitecoreCaching.SC.Framework/bin/
+SitecoreCaching.Service/SitecoreCaching.Service/bin/
+SitecoreCaching.Service/SitecoreCaching.Service/obj/
+SitecoreCaching.Business/obj/
+SitecoreCaching.Business/bin/
+*.user
