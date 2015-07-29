@@ -23,7 +23,7 @@ namespace SitecoreCaching.Business.Caching
                         if (string.IsNullOrEmpty(defaultSize))
                             defaultSize = "5MB";
                         if (string.IsNullOrEmpty(defaultName))
-                            defaultName = "RACQCache";
+                            defaultName = "DefaultCustomCache";
                         _sitecoreCacheService = new SitecoreCacheService(defaultName, defaultSize)
                         {
                             DataSourceItem = dataSourceItem
